@@ -12,6 +12,8 @@ Hackerrank:
 
 Codedrills:
 - https://codedrills.io/contests/amrita-icpc-practice-session-5/problems/beauty-of-the-tree
+- https://codedrills.io/problems/horse-and-barns
+- https://codedrills.io/problems/heavy-traffic
 - https://codedrills.io/contests/siliconmaze-2021-algorithms/problems/wildfire
 - https://codedrills.io/contests/siliconmaze-2021-algorithms/problems/strange-array
 - https://codedrills.io/contests/siliconmaze-2021-algorithms/problems/marvel-captain-story

@@ -16,3 +16,6 @@ Codedrills:
 - https://codedrills.io/contests/siliconmaze-2021-algorithms/problems/strange-array
 - https://codedrills.io/contests/siliconmaze-2021-algorithms/problems/marvel-captain-story
 - https://codedrills.io/contests/siliconmaze-2021-algorithms/problems/iron-fist-first
+- https://codedrills.io/contests/praelium-2021/problems/tree-paths
+- https://codedrills.io/contests/praelium-2021/problems/incomplete-permutations
+- https://codedrills.io/contests/praelium-2021/problems/dual-color-points

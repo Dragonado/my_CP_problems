@@ -1,6 +1,6 @@
 # my_CP_problems
 Problems created by me
-* = my favourites
+\* = my favourites
 
 Codechef:
 - https://www.codechef.com/problems/CARSELL

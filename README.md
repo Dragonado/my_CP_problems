@@ -16,6 +16,7 @@ Codechef:
 Hackerrank: 
 - https://www.hackerrank.com/contests/praelium-2020/challenges/mutating-grid
 - https://www.hackerrank.com/contests/wec-algorithms-recs/challenges/maximise-components *
+- https://www.hackerrank.com/contests/ieee-praelium-2022/challenges/fire-town
 
 Codedrills:
 - https://codedrills.io/contests/amrita-icpc-practice-session-5/problems/beauty-of-the-tree

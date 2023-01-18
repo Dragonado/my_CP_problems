@@ -9,11 +9,11 @@ Codechef:
 - https://www.codechef.com/problems/REPLESX
 - https://www.codechef.com/problems/CKCGAME *
 - https://www.codechef.com/problems/HIDDENPTS *
-- https://www.codechef.com/NOV21A/problems/CONHULK/ *
-- https://www.codechef.com/COOK139A/problems/SECRETREE *
-- https://www.codechef.com/COOK139A/problems/FLIPOINTS
+- https://www.codechef.com/problems/CONHULK/ *
+- https://www.codechef.com/problems/SECRETREE *
+- https://www.codechef.com/problems/FLIPOINTS
 - https://www.codechef.com/problems/HAMTREE *
-- https://www.codechef.com/START74A/problems/MEDSTRONG *
+- https://www.codechef.com/problems/MEDSTRONG *
 
 Hackerrank: 
 - https://www.hackerrank.com/contests/praelium-2020/challenges/mutating-grid

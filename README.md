@@ -32,3 +32,4 @@ Codedrills:
 - https://codedrills.io/contests/praelium-2021/problems/incomplete-permutations
 - https://codedrills.io/contests/praelium-2021/problems/dual-color-points *
 - https://codedrills.io/contests/inscription-2022/problems/make-friends-not-enemies *
+- https://codedrills.io/contests/icpc-amritapuri-2022-qualifier-round/problems/central-subset *

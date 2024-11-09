@@ -14,6 +14,7 @@ Codechef:
 - https://www.codechef.com/problems/FLIPOINTS
 - https://www.codechef.com/problems/HAMTREE *
 - https://www.codechef.com/problems/MEDSTRONG *
+- https://dmoj.ca/problem/dmopc20c7p6 (This is officialy not my problem but I  also incidentally came up with this problem which was to be used in Codechef Cook Off June 2021 but was not used because we found this problem the day before our contest :'(, Keeping it here for archive purposes. I then changed the problem up with an easier variant of this called Dual Color points for the codedrills contest listed below).
 
 Hackerrank: 
 - https://www.hackerrank.com/contests/praelium-2020/challenges/mutating-grid
